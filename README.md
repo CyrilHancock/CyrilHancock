@@ -35,6 +35,5 @@
 
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyrilhancock&show_icons=true&locale=en" alt="cyrilhancock" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyrilhancock&" alt="cyrilhancock" /></p>
