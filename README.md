@@ -25,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cyrilhancock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyrilhancock" height="30" width="40" /></a>
+<a href="https://twitter.com/hancock_cyril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyrilhancock" height="30" width="40" /></a>
 <a href="https://instagram.com/cyrilhancock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrilhancock" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@CyrilHancock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
